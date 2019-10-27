@@ -1,0 +1,6 @@
+/* desktop screen size reduce form */
+@media (min-width: 768px) {
+  .todoList .container {
+    width: 50%;
+  }
+}
